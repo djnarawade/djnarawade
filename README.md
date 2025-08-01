@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diksha Narawade</h1>
-<h3 align="center">Front-End Developer originally from India, now thriving in the Netherlands 🇳🇱. Certified in Frontend web Development  from Mastermatrix Bootcamp, eager to build innovative web solutions.
+<h3 align="center">Front-End Developer originally from India, now thriving in the Netherlands 🇳🇱. Certified in Frontend web Development  from MatrixMaster Bootcamp, eager to build innovative web solutions.
 </h3> </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
