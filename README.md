@@ -1,3 +1,40 @@
+<h1 align="center">Hi 👋, I'm Diksha Narawade</h1>
+<h3 align="center">A passionate Full-Stack Developer from India but now in Netherlands </h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+
+
+- 🌱 I’m currently learning **React, Node.js, MongoDB, TypeScript**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Web Development**
+- 📫 How to reach me: **[your.email@example.com]**
+- 📄 Know about my experiences [Resume Link]
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,bootstrap,tailwind" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=djnarawade&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=djnarawade&theme=radical" />
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:your.email@example.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
 ## Hi there 👋
 
 <!--
