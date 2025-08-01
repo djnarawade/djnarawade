@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **React, Node.js, MongoDB, TypeScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Web Development**
-- 📫 How to reach me: **[your.email@example.com]**
-- 📄 Know about my experiences [Resume Link]
+- 📫 How to reach me: **[djnarawade.999@gmail.com]**
+- 📄 Know about my experiences [[Resume Link](https://drive.google.com/file/d/1sZv7GyQJnsw3D5r6XxDqJ7HpbqAvRs0s/view?usp=sharing)]
 
 ---
 
