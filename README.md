@@ -34,7 +34,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dikshanarawade/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="djnarawade.999@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="[djnarawade.999@gmail.com](mailto:djnarawade.999@gmail.com)
+"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 
