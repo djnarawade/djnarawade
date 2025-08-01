@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
-- 🌱 I’m currently learning **React, Node.js, MongoDB, TypeScript**
+- 🌱 I’m currently learning **React, Node.js, MongoDB, JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Web Development**
 - 📫 How to reach me: **[djnarawade.999@gmail.com]**
